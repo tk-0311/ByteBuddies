@@ -1,7 +1,7 @@
 # ByteBuddies
 Application to connect developers based on wanted skills
 
-###Contribution
+### Contribution
 
 Timothy Kwon <a href="https://www.linkedin.com/in/timothy-m-kwon/">LinkedIn</a>  
 Chris Olmsted  
